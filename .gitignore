@@ -1,0 +1,5 @@
+.vs/
+*.obj
+*.log
+*.iobj
+*.recipe
